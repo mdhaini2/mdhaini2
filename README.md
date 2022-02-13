@@ -1,11 +1,11 @@
 # Hi there, I'm Mohamad 👋 
 
 
-## I'm a Computer Science Student at Lebanese American University!!
+## I'm a Computer Science Student at Lebanese American University
 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Software Engineer
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to lift weight and play football  
+- ⚡ Fun fact: I love lifting weights and listen to Nordic folk music ⚔️🛡️ 
 - 📫 How to reach me mohamad.dhaini02@lau.edu
 
 
