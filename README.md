@@ -25,8 +25,9 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="JAVA" width="26px" src="https://flyclipart.com/thumb2/java-logo-transparent-png-png-image-892732.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="C" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APHP-logo.svg&psig=AOvVaw0SwOsV0vGrU2XkxdL13Nev&ust=1651920316076000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCO1_LYyvcCFQAAAAAdAAAAABAD" style="padding-right:10px;" />
 
 
 <br />
