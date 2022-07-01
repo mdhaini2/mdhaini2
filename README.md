@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science Student at Lebanese American University
 
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Software Engineer
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Software Engineering and Cyber Security.
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love lifting weights and listen to Nordic folk music ⚔️🛡️ 
 - 📫 How to reach me mohamad.dhaini02@lau.edu
