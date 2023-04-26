@@ -8,13 +8,6 @@
 - ⚡ Fun fact: I love lifting weights and listen to Nordic folk music ⚔️🛡️ 
 - 📫 How to reach me mohamad.dhaini02@lau.edu
 
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohamad-dhaini-314011207/)
-
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mdhaini_/)
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
